@@ -1,11 +1,11 @@
 # COMP319 / 알고리즘 / 2020 / 1학기 / 장길진  
 
 >   ## 1. 최대값 / 최소값 / 중간값 계산
->   ### [1_template_min_max_avg.c]()
+>   ### [1_template_min_max_avg.c](https://github.com/KwonHyeonSu/2020_1_Algorithm/blob/main/1_template_min_max_avg.c)
 >   
 
 >   ## 2. 정수 / 문자열 / 문자배열(char array)의 Insertion / Selection / Bubble 정렬
->   ### [2_template_sort_chararray_simple](https://github.com/KwonHyeonSu/2020_1_Algorithm/blob/main/1_template_min_max_avg.c)
+>   ### [2_template_sort_chararray_simple](https://github.com/KwonHyeonSu/2020_1_Algorithm/blob/main/2_template_sort_chararray_simple.c)
 >   ### [2_template_sort_int_simple](https://github.com/KwonHyeonSu/2020_1_Algorithm/blob/main/2_template_sort_int_simple.c)
 >   ### [2_template_sort_string_simple](https://github.com/KwonHyeonSu/2020_1_Algorithm/blob/main/2_template_sort_string_simple.c)  
 
